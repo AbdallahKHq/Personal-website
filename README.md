@@ -18,12 +18,11 @@ Personal website is a challenge provided by Frontend Mentor to improve and showc
 
 ## Demo
 
-You can view the live demo of the project [here](#insert-live-demo-link).
+You can view the live demo of the project here : https://abdallahkhq.github.io/Personal-website/.
 
 ## Features
 
-- Responsive design: The website is optimized for various screen sizes and devices.
-- [Add any specific features you implemented]
+- Responsive design : The website is optimized for various screen sizes and devices.
 
 ## Technologies Used
 
@@ -48,8 +47,23 @@ After completing the installation steps, open the `index.html` file in your pref
 
 ## Acknowledgments
 
-I would like to express my gratitude to Frontend Mentor for providing this challenging project and allowing me to enhance my frontend development skills. Additionally, special thanks to Eng Ahmed Fathy and Mohamed Abusrea.
+I would like to express my gratitude to Frontend Mentor for providing this challenging project and allowing me to enhance my frontend development skills. Additionally, special thanks to Eng.Ahmed Fathy and Eng.Mohamed Abusrea.
 
 Feel free to contribute to the project by submitting issues or pull requests. Your feedback is valuable and will help me improve this project. If you have any questions or suggestions, please contact me at 3bdo5670@gmail.com.
 
 #### Happy Coding!
+
+## Author
+
+### Abdallah Khaled
+
+### Contact
+
+- GitHub : https://github.com/AbdallahKHq
+- LinkedIn : https://www.linkedin.com/in/abdallah-khaled-725603299/?trk=public-profile
+- Email : 3bdo5670@gmail.com
+
+
+
+**Thank you for visiting and supporting my project!**
+
